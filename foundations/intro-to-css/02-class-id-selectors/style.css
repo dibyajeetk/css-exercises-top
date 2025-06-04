@@ -1,0 +1,23 @@
+/* adding styles to all odd number selectors */
+.one, .three, .five {
+    background-color: hsla(0, 100%, 85%, 1);
+    font-family: Verdana, Deja Vu, sans-serif;
+}
+
+/* adding styles to the second selector */
+#two {
+    color: hsla(240, 90%, 50%, 1);
+    font-size: 36px;
+}
+
+/* adding styles to the third selector */
+.three {
+    font-size: 24px;
+}
+
+/* adding styles to the fourth selector */
+#four {
+    background-color: hsla(120, 70%, 50%, 1);
+    font-size: 24px;
+    font-weight: bold;
+}
