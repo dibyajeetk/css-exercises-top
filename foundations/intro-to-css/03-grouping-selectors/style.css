@@ -1,0 +1,20 @@
+/* Global Styling */
+* {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Both Element (.first-btn & .second-btn) */
+.first-btn, .second-btn {
+    font-size: 28px;
+}
+
+/* First button styling */
+.first-btn {
+    background-color: hsla(0, 0%, 0%, 1);
+    color: hsla(0, 0%, 100%, 1);
+}
+
+/* Second button styling */
+.second-btn {
+    background-color: hsla(60, 100%, 50%, 1);
+}
